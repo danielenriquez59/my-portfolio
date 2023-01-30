@@ -2,5 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import './custom.scss'
 
 export default {
-	...DefaultTheme
+	...DefaultTheme,
+    enhanceApp({ app, router, siteData }) {
+      }
 }
