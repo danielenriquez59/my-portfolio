@@ -3,10 +3,15 @@ aside: false
 ---
 # Mechanical/Aerospace Engineering Summary
 I have over 8 years experience in the aerospace industry. My experience is focused on aircraft design, mechanical component design, computational physics analysis (CFD/FEA), and systems engineering. I look forward to helping you bring your engineering vision to life.  
-
-- - - -
-#### Aircraft Design Engineer, L3/L4
-::: details Talyn Air - [08/21 - 04/23]
+## Skills Summary 
+| Field | Keywords  |  
+| -------- | -------- |
+| Aerospace | Aircraft Design, CFD, Vehicle Aerodynamcis, Test Engineering,  | 
+| Mechanical | Loads Generation, FEA (Femap/NASTRAN), Additive Manufacturing, Various Manufacturing Methods| 
+| Software | Python, Matlab, LabView |
+| Soft Skills| Requirements Tracking, Program Management, Risk Mitigation|
+## Experience 
+::: details Aircraft Design Engineer, L3/L4   |   Talyn Air |   08/21 - 04/23
 <a href="https://www.talyn.com">
 <img src="../public/images/talyn-lift.png" width="350" height="350">
 </a>
@@ -24,8 +29,8 @@ I have over 8 years experience in the aerospace industry. My experience is focus
 
 :::
 - - - -
-#### Propulsion Engineer, L2/L3
-::: details Northrop Grumman - [01/18 - 07/21]
+#### 
+::: details Propulsion Engineer, L2/L3 | Northrop Grumman | 01/18 - 07/21
 <img src="../public/images/supersonic-inlet.png" width="350" height="350">
 - Led multi-disciplinary teams in designing and integrating clean sheet sub- to supersonic vehicle inlets and exhaust ducts which positioned team to capture various RFP. Design phases included conceptual, preliminary, and detailed design.
 - Conducted parametric engine cycle analysis to determine engine performance across flight envelope. Performed gradient-based engine cycle optimization by setting design variables, objectives, and constraints.
@@ -35,22 +40,22 @@ I have over 8 years experience in the aerospace industry. My experience is focus
 - Implemented and managed schedule-driven technical plans for a variety of preliminary and conceptual design programs. These included considerations of cost, engineer and manufacturing hours, and fiscal cycles. Managed program to meet cost/budget forecasts. Programs ranged in sized from $0.3 to $1.0 million.
 :::
 - - - -
-#### Loads & Dynamics Engineer, L2
-::: details Northrop Grumman - [11/16 - 1/18]
+#### 
+::: details Loads & Dynamics Engineer, L2 | Northrop Grumman | 11/16 - 1/18
 - Calculated flight loads on air vehicle utilizing various softwares including FEMAP and ZONAIR. Gained experience running MSC and NX NASTRAN to obtain V-F-G results.
 - Created a Matlab tool to simulate aircraft loads during various Navy carrier landing conditions. Work focus was on time-histories of landing gears to determine fatigue load cycles. Ground loads delivered as NASTRAN grid/load BDFs. Studies included taxi, catapult, arresting hook, and crosswind landing cases.
 - Work helped standardized ground loads delivery process across work centers. Prepared material and presented tool to senior team members over a 32-hour training.  
 :::
 - - - -
-#### VMS Technician, L2
-::: details Northrop Grumman - [12/17 - 03/18]
+#### 
+::: details VMS Technician, L2 | Northrop Grumman | 12/17 - 03/18
 - Performed routine electrical lab maintenance tasks including terminating various cable types, soldering electrical components, creating breadboard test beds, affixing electrical enclosures.
 - Set up a rotating actuator for a HITL test bed. Interfaced the DAQ unit to the actuator via Matlab Simulink.
 - Generated Simulink models of electro-mechanical systems.
 :::
 - - - -
-#### Summer Intern / Masters Thesis
-::: details Air Force Research Lab - [08/14 - 07/16]
+#### 
+::: details Summer Intern / Masters Thesis | Air Force Research Lab | 08/14 - 07/16
 <img src="../public/images/tpipe-cfd.png" width="350" height="350">
 - Wrote M.S. thesis which analyzed the mixing behavior within a T-type jet-in-crossflow configuration.
 - Performed grid generation through ANSYS and GridPro gridding software.

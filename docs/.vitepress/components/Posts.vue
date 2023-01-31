@@ -2,7 +2,7 @@
     <div class="post-container">
       <router-link to="article">
         <div class="post-card">
-          <img class="article-image" src="/images/profile_pic.png" />
+          <img class="article-image" src="/images/talyn-lift.png" />
           <div class="description">
             My first Article
           </div>

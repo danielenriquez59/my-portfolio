@@ -18,7 +18,7 @@ features:
   - title: Who am I?
     details: Greetings, my name is Daniel. I have a passion for creating and building innovative engineering solutions. I have 8 years of experience in the aerospace industry doing a variety of engineering tasks ranging from aircraft design, software development, data science, and test engineering.
   - title: _
-    details: I thrive on conquering new challenges and my diverse background allows me to efficiently master new technologies, uncover valuable insights, and quickly provide value to any team I'm on.
+    details: I thrive on conquering new challenges and my diverse background allows me to efficiently master new technologies, uncover hidden insights, and quickly provide value to any team I'm on.
 
 ---
 

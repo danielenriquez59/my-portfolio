@@ -4,9 +4,9 @@ export default {
   themeConfig: {
     siteTitle:"",
     nav: [
-      { text: 'About Me', link: '/about' },
+      { text: 'About Me',   link: '/about' },
       { text: 'Mechanical', link: '/page1' },
-      { text: 'Software', link: '/page2' }
+      { text: 'Software',   link: '/page2' }
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/danielenriquez59" },
