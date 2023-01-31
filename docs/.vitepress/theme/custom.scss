@@ -8,4 +8,12 @@
     --vp-c-sponsor: #fd1d7c;
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5057de, #3434fe);
-  }
+}
+
+.VPHero {
+	.image {
+		img {
+			border-radius: 50%;
+		}
+	}
+}
