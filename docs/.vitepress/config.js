@@ -2,7 +2,7 @@ export default {
   title: 'Testing',
   description: 'Just playing around.',
   themeConfig: {
-    siteTitle:"My first resume",
+    siteTitle:"",
     nav: [
       { text: 'About Me', link: '/about' },
       { text: 'Page 1', link: '/page1' },

@@ -1,237 +1,68 @@
-<html>
-  <head>
-    <meta charset="utf-8" />
-  </head>
-  <body lang="en">
-    <section id="main">
-      <header id="title">
-        <h1>Daniel Enriquez</h1>
-        <span class="subtitle">Aerospace/Mechanical Engineer</span>
-        <p>I have over 7 years experience in the mechanical and aerospace industry. My background is focused on mechanical component design, computational physics analysis (CFD/FEA), and systems engineering. I look forward to helping you bring your engineering idea to life.  </p>
-      </header>
-      <section class="main-block">
-        <h2>
-          <i class="fa fa-suitcase"></i> Experiences
-        </h2>
-        <section class="blocks">
-          <div class="date">
-            <span>2015</span><span>present</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Some Position</h3>
-              <span class="place">Some Workplace</span>
-              <span class="location">(remote)</span>
-            </header>
-            <div>
-              <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac. Maecenas viverra tortor eget convallis vestibulum. Donec pulvinar venenatis est, non sollicitudin metus laoreet sed. Fusce tincidunt felis nec neque aliquet porttitor</li>
-              </ul>
-              </div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2014</span><span>2015</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Another Position</h3>
-              <span class="place">Some Workplace</span>
-              <span class="location">Some City, Some Country</span>
-            </header>
-            <div>
-              <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2013</span><span>2014</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Yet Another Job Position</h3>
-              <span class="place">Some Workplace</span>
-              <span class="location">Some City, Some Country</span>
-            </header>
-            <div>
-              <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-              </ul>
-              </div>
-          </div>
-        </section>
-      </section>
-      <section class="main-block">
-        <h2>
-          <i class="fa fa-folder-open"></i> Selected Projects
-        </h2>
-        <section class="blocks">
-          <div class="date">
-            <span>2015</span><span>2016</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Some Project 1</h3>
-              <span class="place">Some workplace</span>
-            </header>
-            <div>
-              <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac</li>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2014</span><span>2015</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Some Project 2</h3>
-              <span class="place">Some workplace</span>
-            </header>
-            <div>
-              <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac. Maecenas viverra tortor eget convallis vestibulum. Donec pulvinar venenatis est, non sollicitudin metus laoreet sed. Fusce tincidunt felis nec neque aliquet porttitor</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2014</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Some Project 3</h3>
-              <span class="place">Some workplace</span>
-            </header>
-            <div>
-              <ul>
-                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-      </section>
-      <section class="main-block concise">
-        <h2>
-          <i class="fa fa-graduation-cap"></i> Education
-        </h2>
-        <section class="blocks">
-          <div class="date">
-            <span>2009</span><span>2014</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Ph.D. in Forty-Two Discovery</h3>
-              <span class="place">Inexistent University</span>
-              <span class="location">Some City, Some Country</span>
-            </header>
-            <div>Relationship of the number with the answer to life, the universe and everything</div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2005</span><span>2009</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>LL.B. in H&aelig;matophagic Economics</h3>
-              <span class="place">Inexistent University</span>
-              <span class="location">Some City, Some Country</span>
-            </header>
-            <div>President's Scholarship</div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-            <span>2005</span><span>2009</span>
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>B.S. in Existential Science (Double Major)</h3>
-              <span class="place">Inexistent University</span>
-              <span class="location">Some City, Some Country</span>
-            </header>
-            <div>President's Scholarship</div>
-          </div>
-        </section>
-        <section class="blocks">
-          <div class="date">
-          </div>
-          <div class="decorator">
-          </div>
-          <div class="details">
-            <header>
-              <h3>Massive Online Fee&ndash;Required Course (selective list)</h3>
-            </header>
-            <div class="concise">
-              <ul>
-                <li>Introduction to something else</li>
-                <li>Introduction to some more useless things</li>
-                <li>Philosophy in practice</li>
-                <li>Recursive research and its impact on recursive research</li>
-                <li>Artificial politics</li>
-              </ul>
-            </div>
-          </div>
-        </section>
-      </section>
-    </section>
-    <aside id="sidebar">
-      <div class="side-block" id="contact">
-        <h1>
-          Contact Info
-        </h1>
-        <ul>
-          <li><i class="fa fa-globe"></i> johndoe.gtld</li>
-          <li><i class="fa fa-linkedin"></i> linkedin.com/in/john</li>
-          <li><i class="fa fa-envelope"></i> me@johndoe.gtld</li>
-          <li><i class="fa fa-phone"></i> 800.000.0000</li>
-        </ul>
-      </div>
-      <div class="side-block" id="skills">
-        <h1>
-          Skills
-        </h1>
-        <ul>
-          <li>Omnipresence</li>
-          <li>Anonymity</li>
-        </ul>
-        <ul>
-          <li>Ordinarity</li>
-          <li>No name rights</li>
-        </ul>
-      </div>
-    </aside>
-  </body>
-</html>
+
+
+# Mechanical/Aerospace Engineering Summary
+* I have over 8 years experience in the aerospace industry. My experience is focused on aircraft design, mechanical component design, computational physics analysis (CFD/FEA), and systems engineering. I look forward to helping you bring your engineering vision to life.  
+
+## Aircraft Design Engineer, L3/L4
+::: details Talyn Air - [08/21 - 04/23]
+- Aircraft design generalist. Conducted trade studies across various disciplines to help size and design an eVTOL aircraft system. Subsystems investigated include propellers, rotors, motors, battery systems, wings, empennage design, and avionics. Utilized OpenVSP and Python to conduct MDAO trade studies.
+- Post-processed subscale flight test data to validate aerodynamic predictions and identify system performance. Utilized this data into a 6DOF Simulink model.
+- Utilized Vortex-Lattice aerodynamics solvers to predict the performance of both the aircraft and its propellers. Developed aerodynamic databases for use in 6DOF model.
+- Configured the vehicle OML with input from various subdisciplines. Kept meticulous record of a change log to track vehicle changes.
+- Generated airloads from V-n diagram (per CFR 23) for use in a structural model in order to determine critical load cases. Handed off aerodynamic loads to structures team for FEA.
+- Conducted trade studies on various battery architectures to converge upon design which met vehicle energy and power requirements. This includes conceptual full electric and hybrid powertrain studies.
+- Applied load cases to nose gear landing gear FEM  to ensure component safety margins were met. 
+- Carried various flight parts from concept design to flight integration. This includes managing part numbers through out the release workflow, managing component requirements, and conducting loads and structural analysis to size hardware.
+- Generated test cards for static thrust propeller testing with expected loads of up to 700lb.
+- Captured live test data utilizing NI DAQ with LabView. Data post-processed with Python scripts. 
+:::
+
+## Propulsion Engineer, L2/L3
+::: details Northrop Grumman - [01/18 - 07/21]
+- Led multi-disciplinary teams in designing and integrating clean sheet sub- to supersonic vehicle inlets and exhaust ducts which positioned team to capture various RFP. Design phases included conceptual, preliminary, and detailed design.
+
+- Conducted parametric engine cycle analysis to determine engine performance across flight envelope. Performed gradient-based engine cycle optimization by setting design variables, objectives, and constraints.
+
+- Generated and conducted parametric CFD studies of relevant geometries for vehicle-inlet integration. Automated linking between softwares to take model from CAD to CFD to post-process.
+
+- Utilized CFD with aerodynamic shape optimization techniques to improve propulsion system performance; this included setting objetive and constraint functions. Wrote accompanying process documents to disseminate knowledge. Made significant progress in making this technique a group standard practice in design cycle.
+
+- Acquired and analyzed data during live testing of vehicle model at NASA wind tunnel. Developed and documented tools to improve inlet analysis and design. Wrote final report and communicated findings to customers in final briefing.
+
+- Implemented and managed schedule-driven technical plans for a variety of preliminary and conceptual design programs. These included considerations of cost, engineer and manufacturing hours, and fiscal cycles. Managed program to meet cost/budget forecasts. Programs ranged in sized from $0.3 to $1.0 million.
+:::
+
+## Loads & Dynamics Engineer, L2
+::: details Northrop Grumman - [11/16 - 1/18]
+- Calculated flight loads on air vehicle utilizing various softwares including FEMAP and ZONAIR. Gained experience running MSC and NX NASTRAN to obtain V-F-G results.
+
+- Created a Matlab tool to simulate aircraft loads during various Navy carrier landing conditions. Work focus was on time-histories of landing gears to determine fatigue load cycles. Ground loads delivered as NASTRAN grid/load BDFs. Studies included taxi, catapult, arresting hook, and crosswind landing cases.
+
+- Work helped standardized ground loads delivery process across work centers. Prepared material and presented tool to senior team members over a 32-hour training.  
+:::
+
+## VMS Technician, L2
+::: details Northrop Grumman - [12/17 - 03/18]
+- Performed routine electrical lab maintenance tasks including terminating various cable types, soldering electrical components, creating breadboard test beds, affixing electrical enclosures.
+
+- Set up a rotating actuator for a HITL test bed. Interfaced the DAQ unit to the actuator via Matlab Simulink.
+
+- Generated Simulink models of electro-mechanical systems.
+:::
+
+## Summer Intern / Masters Thesis
+::: details Air Force Research Lab - [08/14 - 07/16]
+- Wrote M.S. thesis which analyzed the mixing behavior within a T-type jet-in-crossflow configuration.
+
+- Performed grid generation through ANSYS and GridPro gridding software.
+
+- Ran simulation utilizing commercial FLUENT package. Utilized HPC systems for job submittal.
+
+- Ran CFD simulation with RANS and pseudo-DNS models. Determined solution sensitivity to grid resolution and y+ metrics.
+
+- Conducted parametric study to analyze pertinent flow parameters and effects on vortical structures.
+
+- Summarized and presented results on a biweekly basis to senior team members.
+
+- Identified primary vortical structures in flow field, determined parameters pertinent to mixing efficiency, and validated results with experiment and literature findings. 
+:::
