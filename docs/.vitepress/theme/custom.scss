@@ -1,4 +1,5 @@
 // this file customizes the theme colors and fonts
+// https://github.com/vuejs/vitepress/blob/471f00a68d1e3d8d925ab996f462adaf4f1261a0/src/client/theme-default/styles/vars.css
 :root {
     --vp-c-brand: rgb(255, 115, 64);
     --vp-c-brand-light: rgb(255, 87, 25);
@@ -11,6 +12,9 @@
     --vp-custom-block-font-size: 16px ;
     --vp-c-text-dark-1: rgb(235, 235, 245);
     --vp-c-text-dark-2: rgb(235, 235, 245);
+    --vp-c-text-light-2:  rgb(32, 32, 32);
+    --vp-c-text-light-1: rgb(32, 32, 32);
+
 
 
 }
