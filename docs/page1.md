@@ -7,7 +7,7 @@ I have over 8 years experience in the aerospace industry. My experience is focus
 | Field | Keywords  |  
 | -------- | -------- |
 | Aerospace | Aircraft Design, CFD, Vehicle Aerodynamcis, Test Engineering,  | 
-| Mechanical | Loads Generation, FEA (Femap/NASTRAN), Additive Manufacturing, Various Manufacturing Methods| 
+| Mechanical | CAD (NX), FEA (Femap/NASTRAN), Additive Manufacturing, Various Manufacturing Methods| 
 | Software | Python, Matlab, LabView |
 | Soft Skills| Requirements Tracking, Program Management, Risk Mitigation|
 ## Experience 
@@ -28,8 +28,7 @@ I have over 8 years experience in the aerospace industry. My experience is focus
 - Captured live test data utilizing NI DAQ with LabView. Data post-processed with Python scripts. 
 
 :::
-- - - -
-#### 
+
 ::: details Propulsion Engineer, L2/L3 | Northrop Grumman | 01/18 - 07/21
 <img src="../public/images/supersonic-inlet.png" width="350" height="350">
 - Led multi-disciplinary teams in designing and integrating clean sheet sub- to supersonic vehicle inlets and exhaust ducts which positioned team to capture various RFP. Design phases included conceptual, preliminary, and detailed design.
@@ -39,22 +38,19 @@ I have over 8 years experience in the aerospace industry. My experience is focus
 - Acquired and analyzed data during live testing of vehicle model at NASA wind tunnel. Developed and documented tools to improve inlet analysis and design. Wrote final report and communicated findings to customers in final briefing.
 - Implemented and managed schedule-driven technical plans for a variety of preliminary and conceptual design programs. These included considerations of cost, engineer and manufacturing hours, and fiscal cycles. Managed program to meet cost/budget forecasts. Programs ranged in sized from $0.3 to $1.0 million.
 :::
-- - - -
-#### 
+
 ::: details Loads & Dynamics Engineer, L2 | Northrop Grumman | 11/16 - 1/18
 - Calculated flight loads on air vehicle utilizing various softwares including FEMAP and ZONAIR. Gained experience running MSC and NX NASTRAN to obtain V-F-G results.
 - Created a Matlab tool to simulate aircraft loads during various Navy carrier landing conditions. Work focus was on time-histories of landing gears to determine fatigue load cycles. Ground loads delivered as NASTRAN grid/load BDFs. Studies included taxi, catapult, arresting hook, and crosswind landing cases.
 - Work helped standardized ground loads delivery process across work centers. Prepared material and presented tool to senior team members over a 32-hour training.  
 :::
-- - - -
-#### 
+
 ::: details VMS Technician, L2 | Northrop Grumman | 12/17 - 03/18
 - Performed routine electrical lab maintenance tasks including terminating various cable types, soldering electrical components, creating breadboard test beds, affixing electrical enclosures.
 - Set up a rotating actuator for a HITL test bed. Interfaced the DAQ unit to the actuator via Matlab Simulink.
 - Generated Simulink models of electro-mechanical systems.
 :::
-- - - -
-#### 
+
 ::: details Summer Intern / Masters Thesis | Air Force Research Lab | 08/14 - 07/16
 <img src="../public/images/tpipe-cfd.png" width="350" height="350">
 - Wrote M.S. thesis which analyzed the mixing behavior within a T-type jet-in-crossflow configuration.
