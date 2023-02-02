@@ -4,7 +4,7 @@ export default {
   themeConfig: {
     siteTitle:"",
     nav: [
-      { text: 'About Me',   link: '/about' },
+      { text: 'About Me',   link: '/index' },
       { text: 'Mechanical', link: '/page1' },
       { text: 'Software',   link: '/page2' }
     ],
