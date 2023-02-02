@@ -2,7 +2,7 @@
     <div class="post-container">
       <router-link to="article">
         <div class="post-card">
-          <img class="article-image" src="/images/talyn-lift.png" />
+          <img class="article-image" :src="image1" />
           <div class="description">
             My first Article
           </div>
@@ -10,7 +10,7 @@
       </router-link>
       <router-link to="article2">
         <div class="post-card">
-          <img class="article-image" src="../public/images/blog_hero_image.jpg" />
+          <img class="article-image" :src="image2" />
           <div class="description">
             My Second Article
           </div>
@@ -18,7 +18,7 @@
       </router-link>
       <router-link to="article3">
         <div class="post-card">
-          <img class="article-image" src="../public/images/blog_hero_image.jpg" />
+          <img class="article-image" :src="image3" />
           <div class="description">
             My third Article
           </div>
@@ -27,7 +27,15 @@
     </div>
   </template>
   <script>
-  export default {}
+  export default {
+      data () {
+        return {
+          image1: '',
+          image2: '',
+          image3: ''
+        }
+      }
+    }
   </script>
   <style scoped>
   .post-container {
