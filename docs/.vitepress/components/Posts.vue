@@ -4,7 +4,7 @@
         <div class="post-card">
           <img class="article-image" :src="image1" />
           <div class="description">
-            My first Article
+            {{ string1 }}
           </div>
         </div>
       </router-link>
@@ -12,7 +12,7 @@
         <div class="post-card">
           <img class="article-image" :src="image2" />
           <div class="description">
-            My Second Article
+            {{ string2 }}
           </div>
         </div>
       </router-link>
@@ -20,7 +20,7 @@
         <div class="post-card">
           <img class="article-image" :src="image3" />
           <div class="description">
-            My third Article
+            {{ string3 }}
           </div>
         </div>
       </router-link>
@@ -28,15 +28,18 @@
   </template>
   <script>
   export default {
-      data () {
-        return {
-          image1: '',
-          image2: '',
-          image3: ''
-        }
-      }
+    props: {
+    image1: String,
+    image2: String,
+    image3: String,
+    string1: String,
+    string2: String,
+    string3: String
+  }
     }
   </script>
+
+
   <style scoped>
   .post-container {
     display: flex;
@@ -54,7 +57,7 @@
     align-items: center;
   }
   .article-image {
-    height: 100%;
+    height: 110%;
   }
   .description {
     width: 100%;

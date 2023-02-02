@@ -1,11 +1,11 @@
 export default {
-  title: 'Testing',
+  title: 'Engineering Solutions',
   description: 'Just playing around.',
   themeConfig: {
     siteTitle:"",
     nav: [
       { text: 'About Me',   link: '/index' },
-      { text: 'Mechanical', link: '/page1' },
+      { text: 'MechAero', link: '/page1' },
       { text: 'Software',   link: '/page2' }
     ],
     socialLinks: [
