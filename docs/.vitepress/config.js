@@ -5,8 +5,9 @@ export default {
     siteTitle:"",
     nav: [
       { text: 'About Me',   link: '/index' },
-      { text: 'MechAero', link: '/page1' },
-      { text: 'Software',   link: '/page2' }
+      { text: 'MechAero', link: '/mechaero' },
+      { text: 'Software',   link: '/software' },
+      { text: 'Services',   link: '/services' }
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/danielenriquez59" },
