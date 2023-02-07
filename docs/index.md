@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: Mechanical Background
-      link: /page1
+      link: /mechaero
     - theme: alt
       text: Software Background
-      link: page2
+      link: /software
 features:
   - title: Who am I?
     details: Greetings, my name is Daniel. I have a passion for creating and building innovative engineering solutions. I have 8 years of experience in the aerospace industry doing a variety of engineering tasks ranging from aircraft design, software development, data science, and test engineering.  
