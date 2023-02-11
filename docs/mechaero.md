@@ -15,6 +15,7 @@ I have over 8 years experience in the aerospace industry. My experience is focus
 <a href="https://www.talyn.com">
 <img src="./public/images/talyn-lift.png" width="350" height="350">
 </a>
+<a href="https://www.youtube.com/watch?v=0_fjfnDyqVU&ab_channel=TalynAir">Youtube Spot</a>
 
 - Aircraft design generalist. Conducted trade studies across various disciplines to help size and design an eVTOL aircraft system. Subsystems investigated include propellers, rotors, motors, battery systems, wings, empennage design, and avionics. Utilized OpenVSP and Python to conduct MDAO trade studies.
 - Post-processed subscale flight test data to validate aerodynamic predictions and identify system performance. Utilized this data into a 6DOF Simulink model.
