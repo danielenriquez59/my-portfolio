@@ -3,9 +3,9 @@ layout: home
 
 hero:
   text: Welcome to my portfolio.
-  tagline: Engineering Mechanical & Software Solutions. 
+  tagline: Engineering Mechanical & Software Solutions.
   image:
-    src: /images/profile_pic.png 
+    src: /images/profile_pic.png
     alt: Profile Picture
   actions:
     - theme: brand
@@ -16,10 +16,9 @@ hero:
       link: /software
 features:
   - title: Who am I?
-    details: Greetings, my name is Daniel. I have a passion for creating and building innovative engineering solutions. I have 8 years of experience in the aerospace industry doing a variety of engineering tasks ranging from aircraft design, software development, data science, and test engineering.  
+    details: Greetings, my name is Daniel. I have a passion for creating and building innovative engineering solutions. I have 8 years of experience as a mechanical/aerospace engineer. I've worked on projects ranging from aircraft design, software development, data science, and test engineering.
   - title: ____
-    details: I thrive on conquering new challenges and my diverse background allows me to efficiently master new technologies, uncover hidden insights, and quickly provide value to any team I'm on.
-
+    details: Additionally, I am a self-taught web developer. I've successfully launched full stack and single page applications. I have various software tools and am also looking for the best tool to get the job done!
 ---
 
 <html>
@@ -28,4 +27,3 @@ features:
       Please feel free to <a href="mailto:deenriquez92@gmail.com"><b><span style="color:rgb(255, 115, 64);"> reach out </span> </b> </a> if you think my skills would be useful to your team or project! 
     </p>
 </html>
-
