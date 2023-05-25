@@ -16,7 +16,7 @@ hero:
       link: /software
 features:
   - title: Who am I?
-    details: Greetings, my name is Daniel. I have a passion for creating and building innovative engineering solutions. I have 8 years of experience as a mechanical/aerospace engineer. I've worked on projects ranging from aircraft design, software development, data science, and test engineering.
+    details: I am a freelance engineer ready to help! I have a passion for creating and building innovative engineering solutions. I have 8 years of experience as a mechanical/aerospace engineer. I've worked on projects ranging from aircraft design, software development, data science, and test engineering.
   - title: ____
     details: Additionally, I am a self-taught web developer. I've successfully launched full stack and single page applications. I have various software tools and am also looking for the best tool to get the job done!
 ---
