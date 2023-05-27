@@ -4,13 +4,13 @@ aside: false
 
 # Mechanical/Aerospace Engineering Summary
 
-I have over 8 years experience in the aerospace industry. My experience is focused on aircraft design, mechanical component design, computational physics analysis (CFD/FEA), and systems engineering. I look forward to helping you bring your engineering vision to life.
+I have over 8 years experience in the aerospace industry. My experience is focused on conceptual aircraft design (MDAO), mechanical component design, computational physics analysis (CFD/FEA), and systems engineering. I look forward to helping you bring your engineering vision to life.
 
 ## Skills Summary
 
 | Field       | Keywords                                                                             |
 | ----------- | ------------------------------------------------------------------------------------ |
-| Aerospace   | Aircraft Design, CFD, Vehicle Aerodynamcis, Test Engineering                         |
+| Aerospace   | Aircraft Design (MDAO), CFD, Vehicle Aerodynamcis, Test Engineering                  |
 | Mechanical  | CAD (NX), FEA (Femap/NASTRAN), Additive Manufacturing, Various Manufacturing Methods |
 | Software    | OpenVSP, Python, Matlab, LabView                                                     |
 | Soft Skills | Requirements Tracking, Program Management, Risk Mitigation                           |
