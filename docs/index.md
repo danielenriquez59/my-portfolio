@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  text: Welcome to my portfolio.
+  text: E. Engineering
   tagline: Engineering Mechanical & Software Solutions.
   image:
     src: /images/profile_pic.png
