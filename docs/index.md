@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  text: E. Engineering
+  text: Ezngineering
   tagline: Engineering Mechanical & Software Solutions.
   image:
     src: /images/profile_pic.png
@@ -24,6 +24,6 @@ features:
 <html>
 <br>
     <p style="width:500px; text-align:center; margin:10px auto">
-      Please feel free to <a href="mailto:deenriquez92@gmail.com"><b><span style="color:rgb(255, 115, 64);"> reach out </span> </b> </a> if you think my skills would be useful to your team or project! 
+      Please feel free to <a href="mailto:daniel@ezngineering.com"><b><span style="color:rgb(255, 115, 64);"> reach out </span> </b> </a> if you think my skills would be useful to your team or project! 
     </p>
 </html>

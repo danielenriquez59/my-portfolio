@@ -18,6 +18,7 @@ I have a strong foundation of software and data science related skills. My exper
 
 ::: details Personal Development | At Home
 
+- (2023) Launched an engineering web app, Airfolio, utilizing Vue, MongoDB, and Featherjs.
 - (2023) Utilized Content Management Software to create a business information page.
 - (2023) Implemented **CSS**, **HTML**, **Markdown** to design portfolio website.
 - (2022) Completed 10s of hours of **SQL/SQLite** courses on codeacademy to gain better understanding of data base management and table manipulation. Familiar with **SQL** commands such as SELECT, INSERT, UPDATE, DELETE, JOIN and basic understanding of database normalization.

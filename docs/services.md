@@ -24,5 +24,5 @@ Let me help you stand up your web application. I have a systemitized process for
 3. Executation of the website using prior steps.
 4. Review and buy off to ensure satisfaction!
 
-Please <a href="mailto:deenriquez92@gmail.com"><b><span style="color:rgb(255, 115, 64);"> reach out </span></b></a> to start the conversation with me.
+Please <a href="mailto:daniel@ezngineering.com"><b><span style="color:rgb(255, 115, 64);"> reach out </span></b></a> to start the conversation with me.
 Let's see if my skills are a good fit for your project!
